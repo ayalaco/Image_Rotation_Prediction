@@ -1,5 +1,5 @@
 # Image Rotation Prediction
-Using transfer learning with VGG to predict image rotation angle
+Using transfer learning with VGG to predict image rotation angles.
 
 This is a copy of a kaggle notebook that can be found here:
 https://www.kaggle.com/code/ayalaco/image-rotation-prediction-with-transfer-learning
